@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/z0iDrR8.png)
+![Imgur](https://i.imgur.com/z0iDrR8.png)
 
 # base16-faded
 A faded yet colorful scheme for Vim.
